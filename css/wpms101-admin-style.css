@@ -1,0 +1,11 @@
+#menu-site .wp-submenu li:last-child{
+		display:none;
+	}
+
+#menu-site .wp-submenu li.wp-first-item{
+			font-weight:600;
+		}
+		#menu-site .wp-submenu li.wp-first-item a{
+			color:#fff;
+		}
+
